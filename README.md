@@ -11,4 +11,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm a fox, not a furry
 
-![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=fantomitechno&layout=compact&theme=radical)
+![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=fantomitechno&layout=compact&theme=outrun)
