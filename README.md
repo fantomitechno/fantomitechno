@@ -33,3 +33,6 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fantomitechno&card_width=400&langs_count=10&hide_border=true&theme=nord" />
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=fantomitechno&show_icons=trye&line_height=27&theme=nord&hide_border=true" />
 </a>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=fantomitechno&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
