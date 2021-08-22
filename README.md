@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on the KaniNetwork, Gunibot.py and some random bots
+- 🔭 I’m currently working on the [KaniNetwork](https://github.com/KaniNetwork), [Gispy](https://gitlab.com/Altearn/discord/Gunibot.py) and some random bots
 - 🌱 I’m currently learning Python
 - 📫 How to reach me: [Le Paradis des Renards](https://discord.gg/UrdgdjvxrX) | fantomitechno 🦊#5973 | fantomitechno@gmail.com
 - 😄 Pronouns: he/him
