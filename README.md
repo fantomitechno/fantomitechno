@@ -15,7 +15,7 @@
  <br>[![NSI-Bot commit](https://img.shields.io/github/last-commit/fantomitechno/NSI-Bot)](https://github.com/fantomitechno/NSI-Bot)
  - [Aragorn1008](https://sh.fantomitechno.ovh/aragorn) (Private) : A discord bot to randomly ban random people
  <br>[![Aragorn1008 commit](https://img.shields.io/github/last-commit/fantomitechno/Aragorn1008)](https://github.com/fantomitechno/Aragorn1008)
- - The [Kani Network](https://github.com/KaniNetwork) : A community based on some discord bots and I'm especially working on the private bot for its discrod [server](https://discord.gg/6pnDcSs)
+ - The [Kani Network](https://github.com/KaniNetwork) : A community based on some discord bots and I'm especially working on the private bots for its discrod [server](https://discord.gg/6pnDcSs)
  <br>[![KaniNetwork commit](https://img.shields.io/github/last-commit/KaniNetwork/KaniNetwork)](https://github.com/KaniNetwork/KaniNetwork)
  - [Easter Potato Bot](https://github.com/OneiricForge/Easter-Potato-Bot) : A bot for the [OneiricForge](https://github.com/OneiricForge) discord [server](https://discord.gg/GT2drck)
  <br>[![Easter-Potato-Bot commit](https://img.shields.io/github/last-commit/OneiricForge/Easter-Potato-Bot)](https://github.com/OneiricForge/Easter-Potato-Bot)
