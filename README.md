@@ -7,8 +7,9 @@
 - 😄 Pronouns: he/him
 
 ### My projects 👨‍💻
- - [Higa](https://github.com/fantomitechno/Higa) : A library for Discord made by myself just for learning of to do that sort of things
- <br>[![Higa commit](https://img.shields.io/github/last-commit/fantomitechno/Higa)](https://github.com/fantomitechno/Higa)
+ - [Kitsune-js](https://github.com/Kitsune-js) : A groupement of libraries I made to use the Discord API and Gateway<br>Made of :
+   - Higa: The principal lib to interact with the API [![Higa commit](https://img.shields.io/github/last-commit/Kitsune-js/Higa)](https://github.com/Kitsune-js/Higa)
+   - Kayaba: The production discord bot made with Higa [![Kayaba commit](https://img.shields.io/github/last-commit/Kitsune-js/Kayaba)](https://github.com/Kitsune-js/Kayaba)
  - [DinnerMod](https://github.com/fantomitechno/DinnerMod) : A mod to be like [DinnerBone](https://twitter.com/Dinnerbone/status/1437476580524281857/photo/1)
  <br>[![DinnerMod commit](https://img.shields.io/github/last-commit/fantomitechno/DinnerMod)](https://github.com/fantomitechno/DinnerMod)
  - The [Kani Network](https://github.com/KaniNetwork) : A community based on some discord bots and I'm especially working on the private bots for its discrod [server](https://discord.gg/6pnDcSs)
