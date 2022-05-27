@@ -2,20 +2,20 @@
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=fantomitechno&title=Visitors)
 ![Followers Badge](https://img.shields.io/github/followers/fantomitechno?label=Followers)
 
-🦊・A fox in Deno
-👨‍💻・Simon he/him 🇨🇵
-🙋・https://s.renoux.dev/me
-👨‍🎓・in 12th Grade
-💻・developper on discord of bots and lib https://s.renoux.dev/higa
-- 📫 How to reach me: **[Le Paradis des Renards](https://discord.gg/UrdgdjvxrX) or [F&N's Projects](http://fandnprojects.ovh)** | fantomitechno 🦊#5973 | fantomitechno@gmail.com
+🦊・A fox in Deno<br>
+👨‍💻・Simon he/him 🇫🇷<br>
+🙋・https://s.renoux.dev/me<br>
+👨‍🎓・in 12th Grade<br>
+💻・developper on discord of bots and lib https://s.renoux.dev/higa<br>
+📫・**[Le Paradis des Renards](https://discord.gg/UrdgdjvxrX)** ・ fantomitechno 🦊#5973 | fantomitechno@gmail.com
 
-### What I'm working on:
+### What I'm working on 🔨
 
 - [Kitsune](https://github.com/kitsune-js): a groupement of modules to interact with the Discord API with the main one being [Higa](https://github.com/kitsune-js/Higa)!
 - Some discords bots [link](https://github.com/stars/fantomitechno/lists/discord-bots)
 - and some others projects, just check my reporitories list !
 
-### Organizations I'm working for/on:
+### Organizations I'm working for/on 👥
 
 - The KaniNetwork: a group of friends based on Discord to create originals bots !
 - The ElderGuardian: a free online newspaper based on Minecraft
