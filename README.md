@@ -2,34 +2,32 @@
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=fantomitechno&title=Visitors)
 ![Followers Badge](https://img.shields.io/github/followers/fantomitechno?label=Followers)
 
-### A fox in TypeScript 🦊
+🦊・A fox in Deno
+👨‍💻・Simon he/him 🇨🇵
+🙋・https://s.renoux.dev/me
+👨‍🎓・in 12th Grade
+💻・developper on discord of bots and lib https://s.renoux.dev/higa
 - 📫 How to reach me: **[Le Paradis des Renards](https://discord.gg/UrdgdjvxrX) or [F&N's Projects](http://fandnprojects.ovh)** | fantomitechno 🦊#5973 | fantomitechno@gmail.com
-- 😄 Pronouns: he/him
 
-### My projects 👨‍💻
- - [Kitsune-js](https://github.com/Kitsune-js) : A groupement of libraries I made to use the Discord API and Gateway<br>Made of :
-   - Higa: The principal lib to interact with the API [![Higa commit](https://img.shields.io/github/last-commit/Kitsune-js/Higa)](https://github.com/Kitsune-js/Higa)
-   - Kayaba: The production discord bot made with Higa [![Kayaba commit](https://img.shields.io/github/last-commit/Kitsune-js/Kayaba)](https://github.com/Kitsune-js/Kayaba)
- - [DinnerMod](https://github.com/fantomitechno/DinnerMod) : A mod to be like [DinnerBone](https://twitter.com/Dinnerbone/status/1437476580524281857/photo/1)
- <br>[![DinnerMod commit](https://img.shields.io/github/last-commit/fantomitechno/DinnerMod)](https://github.com/fantomitechno/DinnerMod)
- - The [Kani Network](https://github.com/KaniNetwork) : A community based on some discord bots and I'm especially working on the private bots for its discrod [server](https://discord.gg/6pnDcSs)
- <br>[![KaniNetwork commit](https://img.shields.io/github/last-commit/KaniNetwork/KaniNetwork)](https://github.com/KaniNetwork/KaniNetwork)
- - [Easter Potato Bot](https://github.com/OneiricForge/Easter-Potato-Bot) : A bot for the [OneiricForge](https://github.com/OneiricForge) discord [server](https://discord.gg/GT2drck)
- <br>[![Easter-Potato-Bot commit](https://img.shields.io/github/last-commit/OneiricForge/Easter-Potato-Bot)](https://github.com/OneiricForge/Easter-Potato-Bot)
- - Abandoned:
-   - [NSI Bot](https://github.com/fantomitechno/NSI-Bot) : A discord bot used on my NSI class server
-   <br>[![NSI-Bot commit](https://img.shields.io/github/last-commit/fantomitechno/NSI-Bot)](https://github.com/fantomitechno/NSI-Bot)
-   - [Aragorn1008](https://sh.fantomitechno.ovh/aragorn) (Private) : A discord bot to randomly ban random people
-   <br>[![Aragorn1008 commit](https://img.shields.io/github/last-commit/fantomitechno/Aragorn1008)](https://github.com/fantomitechno/Aragorn1008)
-   - [fant0mib0t](https://github.com/fantomitechno/fant0mib0t) : My awesome discord bot 
-   <br>[![fant0mib0t commit](https://img.shields.io/github/last-commit/fantomitechno/fant0mib0t)](https://github.com/fantomitechno/fant0mib0t)
+### What I'm working on:
+
+- [Kitsune](https://github.com/kitsune-js): a groupement of modules to interact with the Discord API with the main one being [Higa](https://github.com/kitsune-js/Higa)!
+- Some discords bots [link](https://github.com/stars/fantomitechno/lists/discord-bots)
+- and some others projects, just check my reporitories list !
+
+### Organizations I'm working for/on:
+
+- The KaniNetwork: a group of friends based on Discord to create originals bots !
+- The ElderGuardian: a free online newspaper based on Minecraft
+- The OneiricForge: a Minecraft map making team (I'm not member of it but I made a Discord bot for them)
+- The Tutorial Bazaar: a Discord server to create tutorials on code and get some help
 
 ### Technologies I use 💻
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-black?style=flat-square&logo=typescript&logoColor=3178C6)
 ![Nodejs](https://img.shields.io/badge/Nodejs-black?style=flat-square&logo=node.js)
-![Kotlin](https://img.shields.io/badge/Kotlin-black?style=flat-square&logo=kotlin)
+![Git](https://img.shields.io/badge/Git-black?style=flat-square&logo=git)
 
 ### Tools I use to code 💻
 
