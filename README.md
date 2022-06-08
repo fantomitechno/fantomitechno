@@ -7,7 +7,7 @@
 🙋・https://s.renoux.dev/me<br>
 👨‍🎓・in 12th Grade<br>
 💻・developper on discord of bots and lib https://s.renoux.dev/higa<br>
-📫・**[Le Paradis des Renards](https://discord.gg/UrdgdjvxrX)** ・ fantomitechno 🦊#5973 | fantomitechno@gmail.com
+📫・**[Le Paradis des Renards](https://discord.gg/UrdgdjvxrX)** ・ Simon - fantomitechno 🦊#5973 | fantomitechno@gmail.com
 
 ### What I'm working on 🔨
 
