@@ -2,11 +2,11 @@
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=fantomitechno&title=Visitors)
 ![Followers Badge](https://img.shields.io/github/followers/fantomitechno?label=Followers)
 
-🦊・A fox in Deno<br>
-👨‍💻・Simon he/him 🇫🇷<br>
-🙋・https://s.renoux.dev/me<br>
-👨‍🎓・in 12th Grade<br>
-💻・developper on discord of bots and lib https://s.renoux.dev/higa<br>
+🖼️・Picture by [@Liitchee_](https://twitter.com/Liitchee_)<br>
+🦊・foxboy.ts<br>
+🙋・pronouns.page : https://s.renoux.dev/me (beacause custom link)<br>
+🧑‍🎓・futur CS student<br>
+💻・developper who made that : https://s.renoux.dev/higa<br>
 📫・**[Le Paradis des Renards](https://discord.gg/UrdgdjvxrX)** ・ Simon - fantomitechno 🦊#5973 | fantomitechno@gmail.com
 
 ### What I'm working on 🔨
