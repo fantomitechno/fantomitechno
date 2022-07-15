@@ -4,7 +4,7 @@
 
 🖼️・Picture by [@Liitchee_](https://twitter.com/Liitchee_)<br>
 🦊・foxboy.ts<br>
-🙋・pronouns.page : https://s.renoux.dev/me (beacause custom link)<br>
+🙋・pronouns.page : https://s.renoux.dev/me (because custom link)<br>
 🧑‍🎓・futur CS student<br>
 💻・developper who made that : https://s.renoux.dev/higa<br>
 📫・**[Le Paradis des Renards](https://discord.gg/UrdgdjvxrX)** ・ Simon - fantomitechno 🦊#5973 | fantomitechno@gmail.com
