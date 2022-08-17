@@ -2,7 +2,6 @@
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=fantomitechno&title=Visitors)
 ![Followers Badge](https://img.shields.io/github/followers/fantomitechno?label=Followers)
 
-🖼️・Picture by [@Liitchee_](https://twitter.com/Liitchee_)<br>
 🦊・foxboy.ts<br>
 🙋・pronouns.page : https://s.renoux.dev/me (because custom link)<br>
 🧑‍🎓・futur CS student<br>
