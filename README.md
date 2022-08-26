@@ -34,5 +34,5 @@
 ![Intellij IDEA](https://img.shields.io/badge/Intelij%20IDEA-black?style=flat-square&logo=intellijidea)
 
 ### Statistics on me 📈
-
+![Github Stats just for flex](https://github-readme-stats.vercel.app/api?username=fantomitechno&show_icons=true&theme=cobalt&count_private=true)
 ![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=fantomitechno&layout=compact&theme=outrun)
