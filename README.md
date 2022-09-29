@@ -1,12 +1,15 @@
+Gonna rewrite this at some point
+<!--
+I'm in need of something more visual
+# Taking commissions
+Here: https://s.renoux.dev/commissions
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=fantomitechno&title=Visitors)
-![Followers Badge](https://img.shields.io/github/followers/fantomitechno?label=Followers)
+---
 
-🦊・foxboy.ts<br>
-🙋・pronouns.page : https://s.renoux.dev/me (because custom link)<br>
-🧑‍🎓・CS student<br>
-💻・developper who made that : https://s.renoux.dev/higa<br>
-📫・**[Le Paradis des Renards](https://discord.gg/UrdgdjvxrX)** ・ Simon - fantomitechno 🦊#5973 | fantomitechno@gmail.com
+🙋・pronouns.page: https://s.renoux.dev/me (because custom link)<br>
+🧑‍🎓・CS student at Polytech<br>
+💻・developper who made Higa<br>
+📫・Simon - fantomitechno 🦊#5973 | Simon the foxboy 🦊#6415 | [fantomitechno@gmail.com](mailto:fantomitechno@gmail.com)
 
 ### What I'm working on 🔨
 
@@ -17,10 +20,11 @@
 ### Organizations I'm working for/on 👥
 
 - The KaniNetwork: a group of friends based on Discord to create originals bots !
-- The ElderGuardian: a free online newspaper based on Minecraft
 - The OneiricForge: a Minecraft map making team (I'm not member of it but I made a Discord bot for them)
 - The Tutorial Bazaar: a Discord server to create tutorials on code and get some help
+- Some other "private" ones...
 
+**VSCODE SUPPREMACIE**
 ### Technologies I use 💻
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=javascript)
@@ -32,7 +36,7 @@
 
 ![Visual Studio Code](https://img.shields.io/badge/VisualStudioCode-black?style=flat-square&logo=visual-studio-code)
 ![Intellij IDEA](https://img.shields.io/badge/Intelij%20IDEA-black?style=flat-square&logo=intellijidea)
-
 ### Statistics on me 📈
 ![Github Stats just for flex](https://github-readme-stats.vercel.app/api?username=fantomitechno&show_icons=true&theme=cobalt&count_private=true)
 ![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=fantomitechno&layout=compact&theme=outrun)
+-->
