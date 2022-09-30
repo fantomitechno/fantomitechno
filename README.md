@@ -1,5 +1,5 @@
 ## Hello! ![hellow](https://cdn.discordapp.com/emojis/438755742627921920.webp?size=32&quality=lossless)
-### I'm fantomitechno aka Simon R.\
+### I'm fantomitechno aka Simon R.
 ![me_irl](https://cdn.discordapp.com/emojis/1024790523833237514.webp?size=96&quality=lossless)
 
 🦊・foxboy ![panheart](https://cdn.discordapp.com/emojis/1021079224154595418.webp?size=16&quality=lossless)\
