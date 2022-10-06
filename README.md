@@ -7,7 +7,7 @@
 💸・Kommission (get it ? Ko-Fi, commissions ?) https://s.renoux.dev/commissions \
 🥼・`Simon - fantomitechno 🦊#0088` | `Simon the foxboy 🦊#6415`\
 🔗・https://s.renoux.dev/me | https://simon.renoux.dev \
-📫・[fantomitechno@gmail.com](mailto:fantomitechno@gmail.com)\
+📫・[fantomitechno@gmail.com](mailto:fantomitechno@gmail.com)
 
 ### Current projects 💻
 - [ ] Usefull stuff for my promotion at Polytech Nantes, as Polycord, Discord bot for the PEIP1 server, or Gonua a CLI app to get our agenda
