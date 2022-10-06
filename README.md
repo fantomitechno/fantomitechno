@@ -29,7 +29,7 @@ Paused projects:
 
 - Git control: \
 [![Git](https://img.shields.io/badge/Git-black?style=flat-square&logo=git)](https://git-scm.com/) \
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github)](https://github.com/)
 
 - Languages: \
 [![JavaScript](https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=javascript)](https://developer.mozilla.org/fr/docs/Web/JavaScript) \
