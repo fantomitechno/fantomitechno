@@ -25,30 +25,30 @@ Paused projects:
 
 ### Things I use daily to create other things 💻
 - IDE: \
-![Visual Studio Code](https://img.shields.io/badge/VSCode-black?style=flat-square&logo=visual-studio-code)
+[![Visual Studio Code](https://img.shields.io/badge/VSCode-black?style=flat-square&logo=visual-studio-code)](https://code.visualstudio.com/)
 
 - Git control: \
-![Git](https://img.shields.io/badge/Git-black?style=flat-square&logo=git) \
-![Git](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github)
+[![Git](https://img.shields.io/badge/Git-black?style=flat-square&logo=git)](https://git-scm.com/) \
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github)](https://git-scm.com/)
 
 - Languages: \
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=javascript) \
-![TypeScript](https://img.shields.io/badge/TypeScript-black?style=flat-square&logo=typescript&logoColor=3178C6) \
-![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python) \
-![Java](https://img.shields.io/badge/Java-black?style=flat-square&logo=java) <!-- rip java --> \
-![Go](https://img.shields.io/badge/Go-black?style=flat-square&logo=go)
+[![JavaScript](https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=javascript)](https://developer.mozilla.org/fr/docs/Web/JavaScript) \
+[![TypeScript](https://img.shields.io/badge/TypeScript-black?style=flat-square&logo=typescript&logoColor=3178C6)]() \
+[![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python)](https://www.python.org/) \
+[![Java](https://img.shields.io/badge/Java-black?style=flat-square&logo=java)](https://www.java.com/) <!-- rip java --> \
+[![Go](https://img.shields.io/badge/Go-black?style=flat-square&logo=go)](https://go.dev/)
 
 - JS/TS Environnements: \
-![Nodejs](https://img.shields.io/badge/Nodejs-black?style=flat-square&logo=node.js) \
-![Deno](https://img.shields.io/badge/Deno-black?style=flat-square&logo=deno) \
-![Bun](https://img.shields.io/badge/Bun-black?style=flat-square&logo=bun)
+[![Nodejs](https://img.shields.io/badge/Nodejs-black?style=flat-square&logo=node.js)](https://nodejs.org/) \
+[![Deno](https://img.shields.io/badge/Deno-black?style=flat-square&logo=deno)](https://deno.land/) \
+[![Bun](https://img.shields.io/badge/Bun-black?style=flat-square&logo=bun)](https://bun.sh/)
 
 - Frameworks and librairies: \
-![NextJS](https://img.shields.io/badge/Nextjs-black?style=flat-square&logo=next.js) \
-![DiscordJS](https://img.shields.io/badge/DiscordJS-black?style=flat-square&logo=discord) \
-![DiscordPY](https://img.shields.io/badge/DiscordPY-black?style=flat-square&logo=discord) \
-![DiscordGO](https://img.shields.io/badge/DiscordGO-black?style=flat-square&logo=discord) \
-![Fabric](https://img.shields.io/badge/Express-black?style=flat-square) 
+[![NextJS](https://img.shields.io/badge/Nextjs-black?style=flat-square&logo=next.js)](https://nextjs.org/) \
+[![DiscordJS](https://img.shields.io/badge/DiscordJS-black?style=flat-square&logo=discord)](https://discord.js.org/) \
+[![DiscordPY](https://img.shields.io/badge/DiscordPY-black?style=flat-square&logo=discord)](https://discordpy.readthedocs.io/) \
+[![DiscordGO](https://img.shields.io/badge/DiscordGO-black?style=flat-square&logo=discord)](https://pkg.go.dev/github.com/bwmarrin/discordgo) \
+[![Fabric](https://img.shields.io/badge/Express-black?style=flat-square)](https://fabricmc.net/)
 
 
 ### Statistics 📈
