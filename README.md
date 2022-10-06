@@ -48,7 +48,7 @@ Paused projects:
 [![DiscordJS](https://img.shields.io/badge/DiscordJS-black?style=flat-square&logo=discord)](https://discord.js.org/) \
 [![DiscordPY](https://img.shields.io/badge/DiscordPY-black?style=flat-square&logo=discord)](https://discordpy.readthedocs.io/) \
 [![DiscordGO](https://img.shields.io/badge/DiscordGO-black?style=flat-square&logo=discord)](https://pkg.go.dev/github.com/bwmarrin/discordgo) \
-[![Express](https://img.shields.io/badge/Express-black?style=flat-square&logo=express)](https://expressjs.com/)
+[![Express](https://img.shields.io/badge/Express-black?style=flat-square&logo=express)](https://expressjs.com/) \
 [![Fabric](https://img.shields.io/badge/Fabric-black?style=flat-square&logo=fabric)](https://fabricmc.net/)
 
 
