@@ -6,7 +6,7 @@
 💻・back-end dev (JS/TS, Python, Go, Java)\
 💸・Kommission (get it ? Ko-Fi, commissions ?) https://s.renoux.dev/commissions \
 🥼・`Simon - fantomitechno 🦊#0088` | `Simon the foxboy 🦊#6415`\
-🔗・https://s.renoux.dev/me\
+🔗・https://s.renoux.dev/me | https://simon.renoux.dev \
 📫・[fantomitechno@gmail.com](mailto:fantomitechno@gmail.com)\
 
 ### Current projects 💻
