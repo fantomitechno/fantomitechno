@@ -10,17 +10,17 @@
 📫・[fantomitechno@gmail.com](mailto:fantomitechno@gmail.com)
 
 ### Current projects 💻
-- [ ] Usefull stuff for my promotion at Polytech Nantes, as Polycord, Discord bot for the PEIP1 server, or Gonua a CLI app to get our agenda
+- [x] Usefull stuff for my promotion at Polytech Nantes, as Polycord, Discord bot for the PEIP1 server, or [Gonua a CLI app to get our agenda](https://github.com/PEIP-Nantes-2022-2024/GONUA)
 - [ ] A fabric Mod to display the bingo grid from the private bingo datapack created for the MathoX's subscribers
 
 Paused projects:
 - [ ] [Kitsune](https://github.com/kitsune-js): a groupement of modules to interact with the Discord API with the main one being [Higa](https://github.com/kitsune-js/Higa)!
 
 ### Organisation I'm in 👥
-- The KaniNetwork: a group of friends based on Discord to create originals bots !
-- The OneiricForge: a Minecraft map making team (I'm not member of it but I made a Discord bot for them)
-- The Tutorial Bazaar: a Discord server to create tutorials on code and get some help
-- The Creative Olympics: a charity event created in 2021, paused for some times, but a come back... maybe
+- The [KaniNetwork](https://github.com/KaniNetwork): a group of friends based on Discord to create originals bots !
+- The [OneiricForge](https://github.com/OneiricForge): a Minecraft map making team (I'm not member of it but I made a Discord bot for them)
+- The [Tutorial Bazaar](https://github.com/tutorial-bazaar): a Discord server to create tutorials on code and get some help
+- The [Creative Olympics](https://github.com/Creative-Olympics): a charity event created in 2021, paused for some times, but a come back... maybe
 - Some other "private" ones...
 
 ### Things I use daily to create other things 💻
