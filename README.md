@@ -55,3 +55,5 @@ Paused projects:
 ### Statistics 📈
 ![Github Stats just for flex](https://github-readme-stats.vercel.app/api?username=fantomitechno&show_icons=true&theme=cobalt&count_private=true)
 ![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=fantomitechno&layout=compact&theme=outrun)
+![Wakatime](https://wakatime.com/share/@fantomitechno/163ab746-ce74-4b9f-92df-6340dd9fdc28.png)
+![Wakatime](https://wakatime.com/share/@fantomitechno/dcdfe701-040d-4a8b-a119-af134141889d.png)
