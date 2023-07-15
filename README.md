@@ -11,7 +11,7 @@
 
 ### Current projects 💻
 - [x] Usefull stuff for my promotion at Polytech Nantes, as Polycord, Discord bot for the PEIP1 server, or [Gonua a CLI app to get our agenda](https://github.com/PEIP-Nantes-2022-2024/GONUA)
-- [ ] A fabric Mod to display the bingo grid from the private bingo datapack created for the MathoX's subscribers
+- [x] A fabric Mod to display the bingo grid from the private bingo datapack created for the MathoX's subscribers
 
 Paused projects:
 - [ ] [Kitsune](https://github.com/kitsune-js): a groupement of modules to interact with the Discord API with the main one being [Higa](https://github.com/kitsune-js/Higa)!
