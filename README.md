@@ -11,7 +11,7 @@
 
 ### Current projects 💻
 - [x] Usefull stuff for my promotion at Polytech Nantes, as Polycord, Discord bot for the PEIP1 server, or [Gonua a CLI app to get our agenda](https://github.com/PEIP-Nantes-2022-2024/GONUA)
-- [x] [Bingo1Utils](https://github.com/mathoX-subs-dev-corp/Bingo1Utils)
+- [x] ~~[Bingo1Utils](https://github.com/mathoX-subs-dev-corp/Bingo1Utils)~~ Left the KFC
 
 ### Statistics 📈
 ![Github Stats just for flex](https://github-readme-stats.vercel.app/api?username=fantomitechno&show_icons=true&theme=cobalt&count_private=true)
