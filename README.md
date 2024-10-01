@@ -10,7 +10,7 @@
 📫・[me@fantomitechno.dev](mailto:me@fantomitechno.dev) | [simon@renoux.dev](mailto:simon@renoux.dev)
 
 ### Current projects 💻
-- [] [The Golden Challenge 2](https://simon.renoux.dev/projects/tgc)
+- [ ] [The Golden Challenge 2](https://simon.renoux.dev/projects/tgc)
 
 ### Statistics 📈
 ![Github Stats just for flex](https://github-readme-stats.vercel.app/api?username=fantomitechno&show_icons=true&theme=cobalt&count_private=true)
