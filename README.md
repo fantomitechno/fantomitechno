@@ -3,7 +3,7 @@
 ![me_irl](https://cdn.discordapp.com/emojis/1024790523833237514.webp?size=96&quality=lossless)
 
 🦊・foxboy ![panheart](https://cdn.discordapp.com/emojis/1021079224154595418.webp?size=16&quality=lossless)\
-💻・back-end dev (JS/TS, Python, Go, Java)\
+💻・modder (C#, Java, Lua) and back-end dev (JS/TS, Python, Go)\
 💸・[Kommission](https://s.renoux.dev/commissions) (get it ? Ko-Fi, commissions ?) \
 🥼・Discord: `@fantomitechno` | `@simon_the_foxboy`\
 🔗・https://s.renoux.dev/me | https://simon.renoux.dev \
