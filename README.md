@@ -7,7 +7,7 @@
 💸・[Kommission](https://s.renoux.dev/commissions) (get it ? Ko-Fi, commissions ?) \
 🥼・Discord: `@fantomitechno` | `@simon_the_foxboy`\
 🔗・https://s.renoux.dev/me | https://simon.renoux.dev \
-📫・[fantomitechno@gmail.com](mailto:fantomitechno@gmail.com) | [simon@renoux.dev](mailto:simon@renoux.dev)
+📫・[me@fantomitechno.dev](mailto:me@fantomitechno.dev) | [simon@renoux.dev](mailto:simon@renoux.dev)
 
 ### Current projects 💻
 - [x] [The Golden Challenge 2](https://simon.renoux.dev/projects/tgc)
