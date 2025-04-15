@@ -5,7 +5,7 @@
 🦊・foxboy ![panheart](https://cdn.discordapp.com/emojis/1021079224154595418.webp?size=16&quality=lossless)\
 💻・modder (C#, Java, Lua) and back-end dev (JS/TS, Python, Go)\
 💸・[Kommission](https://s.renoux.dev/commissions) (get it ? Ko-Fi, commissions ?) \
-🥼・Discord: `@fantomitechno` | `@simon_the_foxboy`\
+🥼・Discord: `@fantomitechno.dev` | `@simon_the_foxboy`\
 🔗・https://s.renoux.dev/me | https://simon.renoux.dev \
 📫・[me@fantomitechno.dev](mailto:me@fantomitechno.dev) | [simon@renoux.dev](mailto:simon@renoux.dev)
 
